@@ -5,6 +5,7 @@
 #include <sstream>
 
 using namespace std;
+//sources- claude has helped with functions 
 
 // Function to trim leading and trailing whitespace
 string trim(const string& str) {
